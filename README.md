@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Harika Vonguri! 
 
-🚀 Aspiring Full Stack Developer</br>
+🚀 Junior Full Stack Developer</br>
 💻 Currently learning at Mission Ready HQ | Internship starting May 2025 </br>
 🛠️ Tech Stack: HTML5, CSS, JavaScript, React, Node.js, MongoDB , MYSQL, Docker, Microsoft Azure</br>
 💡 Career-changer from pharmacy student and worked as Pharma Benefit analyst into tech. Now building full stack apps that combine logic, creativity, and real-world problem solving.</br>
